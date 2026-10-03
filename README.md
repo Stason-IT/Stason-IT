@@ -3,7 +3,6 @@
 <p align="center">
   Front-end developer passionate about clean UIs and efficient code.<br>
   Python developer and aspiring Machine Learning enthusiast.<br>
-  Also love music and experimenting with creating my own 🎧
 </p>
 
 ---
