@@ -64,6 +64,21 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 </a>
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+</a>
+
 
   <!-- Front-end -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
