@@ -39,9 +39,10 @@
 </a>
 
 <!-- Celery -->
-<a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" alt="Celery" width="40" height="40"/>
+<a href="https://pytest.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40"/>
 </a>
+
 
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
