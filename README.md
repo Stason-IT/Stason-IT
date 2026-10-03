@@ -17,7 +17,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="36" height="36" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/stanislav-mykhalchuk-684259351" target="_blank" rel="noopener noreferrer">
+  <a href="[www.linkedin.com/in/stanislav-mykhalchuk-684259351](https://www.linkedin.com/in/stanislav-mykhalchuk-684259351?utm_id=&utm_source=&utm_medium=&utm_campaign=&utm_term=&utm_content=)" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
   </a>
   &nbsp;&nbsp;
