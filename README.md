@@ -1,9 +1,10 @@
-<h2 align="center">Stanislav — Software Engineering student at King Daniel University 🎓</h2>
+<h2 align="center">Stanislav — Backend Developer | Aspiring ML Engineer</h2>
 
 <p align="center">
-  Front-end developer passionate about clean UIs and efficient code.<br>
-  Python developer and aspiring Machine Learning enthusiast.<br>
+  Backend Developer passionate about building scalable APIs and efficient systems.<br>
+  Python Developer and aspiring Machine Learning Engineer.<br>
 </p>
+
 
 ---
 
