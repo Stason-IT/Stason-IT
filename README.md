@@ -20,10 +20,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://open.spotify.com/track/5Zgufw3jqAhgmgMgtojDsr?si=3cc196c469b94154" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" width="36" height="36" />
-  </a>
-  &nbsp;&nbsp;
 </p>
 
 ---
