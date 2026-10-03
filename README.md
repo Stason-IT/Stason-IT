@@ -33,6 +33,16 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
 </a>
+  <!-- Redis -->
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+</a>
+
+<!-- Celery -->
+<a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" alt="Celery" width="40" height="40"/>
+</a>
+
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
