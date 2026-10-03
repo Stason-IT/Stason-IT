@@ -99,13 +99,5 @@
  <a href="https://reactnative.dev/" target="_blank">
   <img src="https://lucide.dev/framework-logos/react-native.svg" alt="React Native" width="40" height="40"/>
 </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
- 
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-
  
 </p>
